@@ -1,0 +1,75 @@
+#Primer_Horaris {
+    color: blue;
+    text-align: center;
+}
+.Primer_Curs {
+    color: rgb(177, 177, 1);
+    text-align: center;
+    font-size:xx-large;
+    font-style: normal;
+}
+table {
+    border-color: black;
+    border-collapse: collapse;
+    width: 20cm; 
+    font: Verdana; 
+}
+td, th {
+    border-color: black;
+    border: 1px solid;
+}
+.head_table {
+    background-color: lime;
+    height: 50px;
+}
+
+
+
+
+
+#Descans1 {
+    font-size: 20px;
+    padding: 15px;
+}
+#tr {
+    background-color: lime;
+    padding: 30px;
+    font-size: 25px;
+}
+.LMSGI {
+    background-color: pink;
+}
+.BD {
+    background-color: beige;
+}
+.PED {
+    background-color: rgb(85, 141, 163);
+}
+.SI {
+    background-color: yellow;
+}
+.IPOI {
+    background-color: red;
+}
+#TUT {
+    background-color: rgb(99, 197, 230);
+}
+#ANG {
+    background-color: orange;
+}
+#DIW {
+    background-color: tomato;
+}
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+#tabla2 {
+    text-align: center;
+}
+.cabecera {
+    padding: 30px;
+    font-size: 25px;
+
+}
